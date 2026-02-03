@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="left">Hi 👋, I'm Pravallika Akula</h1>
-🚀 DevSecOps • Linux and Cloud Engineer | AWS & GCP | CI/CD | Kubernetes | Terraform | 
+🚀 DevSecOps • Linux and Cloud Engineer | AWS & GCP | CI/CD | Kubernetes | Terraform
+
 ---
 
 ###
