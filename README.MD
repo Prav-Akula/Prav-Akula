@@ -5,7 +5,7 @@
 <h1 align="left">Hi 👋, I'm Pravallika Akula</h1>
 
 ### DevOps and Cloud Engineer @Landmark Tech Solutions
-🚀 DevSecOps • Linux and Cloud Engineer | AWS & GCP | CI/CD | Kubernetes | Terraform
+🚀 DevSecOps & Cloud Engineer | AWS & GCP | Kubernetes | Terraform | CI/CD & Infrastructure Automation
 
 ---
 
