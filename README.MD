@@ -22,7 +22,7 @@ I’m a DevOps and Cloud Engineer with over 4 years of experience, passionate ab
 - **Version Control**: GitHub, Bitbucket  
 - **IaC**: Terraform, AWS Cloudformation  
 - **Containerization Technologies**: Docker, Kubernetes 
-- **Security & Scanning**: SonarQube, Trivy 
+- **Security & Scanning**: SonarQube, Veracode, Trivy
 - **Arifactory**: Nexus, JFrog 
 - **Scripting**: Bash, Shell, Python  
 - **Monitoring**: Prometheus, Grafana, CloudWatch, ELK
