@@ -7,7 +7,7 @@
 # 💫 About Me:
 I’m a DevOps Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
 
-
+- 📫 How to reach me **pravs.akula@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pravalli-akula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pravalli-akula" height="30" width="40" /></a>
