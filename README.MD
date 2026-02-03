@@ -15,7 +15,7 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about turnin
 - **Version Control**: GitHub, Bitbucket  
 - **IaC**: Terraform, AWS Cloudformation  
 - **Containerization Technologies**: Docker, Kubernetes 
-- **Security & Scanning**: SonarQube, Snyk 
+- **Security & Scanning**: SonarQube, Trivy 
 - **Arifactory**: Nexus, JFrog 
 - **Scripting**: Bash, Shell, Python  
 - **Monitoring**: Prometheus, Grafana, CloudWatch, ELK
@@ -52,7 +52,6 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about turnin
 [![](https://visitcount.itsvg.in/api?id=Prav-Akula&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pravalli-akula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pravalli-akula" height="30" width="40" /></a>
