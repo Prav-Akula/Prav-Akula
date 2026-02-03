@@ -49,7 +49,6 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about turnin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prav-Akula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prav-Akula&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 <h3 align="left">Connect with me:</h3>
@@ -57,6 +56,6 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about turnin
 <a href="https://linkedin.com/in/pravalli-akula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pravalli-akula" height="30" width="40" /></a>
 </p>
 
-###
+Thankyou for visiting!
 
 
