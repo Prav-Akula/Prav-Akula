@@ -61,8 +61,7 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about turnin
 <a href="https://linkedin.com/in/pravalli-akula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pravalli-akula" height="30" width="40" /></a>
 </p>
 
----
-###
+
 
 Thankyou for visiting!
 
