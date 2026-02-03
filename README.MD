@@ -3,6 +3,8 @@
 </div>
 
 <h1 align="left">Hi 👋, I'm Pravallika Akula</h1>
+
+### DevOps and Cloud Engineer @Landmark Tech Solutions
 🚀 DevSecOps • Linux and Cloud Engineer | AWS & GCP | CI/CD | Kubernetes | Terraform
 
 ---
@@ -10,7 +12,7 @@
 ###
 
 # 💫 About Me:
-I’m a DevOps Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
+I’m a DevOps and Cloud Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
 
 ### 🧰 Tech Stack
 
