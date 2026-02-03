@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Pravallika Akula</h1>
 
 # 💫 About Me:
-I’m a DevOps Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems.<br> designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
+I’m a DevOps Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
 
 
 <h3 align="left">Connect with me:</h3>
