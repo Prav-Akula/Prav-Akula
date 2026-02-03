@@ -2,24 +2,24 @@
   <img src="https://github.com/Prav-Akula/Prav-Akula/blob/main/link-banner-2.png" alt="GitHub Banner" width="800"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Pravallika Akula</h1>
+<h1 align="left">Hi 👋, I'm Pravallika Akula</h1>
 
 # 💫 About Me:
 I’m a DevOps Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
 
-###
+### 🧰 Tech Stack
 
-Tech Stack:
-	Cloud Computing Platforms: AWS, GCP
-	Infrastructure as Code (IAC): Terraform, AWS CloudFormation
-	Configuration Management: Ansible
-	CI/CD Tools: Jenkins, GitHub Actions
-	Containerization Technologies: Docker, Kubernetes
-	Scripting/Programming Languages: Python, Bash, Groovy
-	Monitoring/Observability Tools: Prometheus, Grafana, ELK Stack
-	Version Control Systems/SCM: GitHub (SaaS)
-	Software Development Methodologies: Agile/Scrum, SDLC
-	Project Management Tools: JIRA, ServiceNow, Confluence
+- **Cloud Computing**: AWS, GCP 
+- **OS**: Linux, Windows
+- **CI/CD**: GitHub Actions, Jenkins  
+- **Version Control**: GitHub, Bitbucket  
+- **IaC**: Terraform, AWS Cloudformation  
+- **Containerization Technologies**: Docker, Kubernetes 
+- **Security & Scanning**: SonarQube, Snyk 
+- **Arifactory**: Nexus, JFrog 
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Prometheus, Grafana, CloudWatch, ELK
+- **Project Management Tools**: JIRA, ServiceNow
 
 ---
 
