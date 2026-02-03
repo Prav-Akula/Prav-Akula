@@ -3,6 +3,10 @@
 </div>
 
 <h1 align="left">Hi 👋, I'm Pravallika Akula</h1>
+🚀 DevSecOps • Linux and Cloud Engineer | AWS & GCP | CI/CD | Kubernetes | Terraform | 
+---
+
+###
 
 # 💫 About Me:
 I’m a DevOps Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
@@ -27,14 +31,17 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about turnin
 
 # Work Overview:
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
-- 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
-- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+- Designed and maintained CI/CD pipelines using Jenkins, GitHub Actions, integrating Docker, Ansible, Terraform, Bash, and Python to automate build and deployment workflows.
+
+- Provisioned and managed AWS cloud infrastructure (EC2, VPC, EKS/ECS, Load Balancers, Route 53, S3, Lambda) using Terraform, ensuring high availability, fault tolerance, and cost optimization.
+
+- Deployed and orchestrated containerized applications using Docker, Kubernetes (EKS), ECS, and Helm to deliver scalable and resilient platforms.
+
+- Implemented monitoring, logging, and alerting with CloudWatch, Prometheus, Grafana, Nagios, and ELK, improving system visibility and incident response.
+
+- Strengthened security and access control using IAM, RBAC, and HashiCorp Vault, while administering and hardening 100+ Linux servers (RHEL/CentOS/Ubuntu).
+
+- Collaborated with development, QA, and operations teams in Agile/Scrum environments, managing workflows through JIRA and resolving production issues efficiently.
 
 ---
 
