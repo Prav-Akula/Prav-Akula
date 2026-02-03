@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Pravallika Akula</h1>
----
+
 ### I'm a passionate DevOps Engineer 
 
 <h3 align="left">Connect with me:</h3>
