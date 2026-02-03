@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://github.com/Prav-Akula/Prav-Akula/blob/main/link-git-banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Prav-Akula/Prav-Akula/blob/main/link-banner-2.png" alt="GitHub Banner" width="800"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Pravallika Akula</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+---
+### I'm a passionate DevOps Engineer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
