@@ -12,11 +12,11 @@
 ###
 
 # 💫 About Me:
-I’m a DevOps and Cloud Engineer with over 4 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
+I’m a DevOps and Cloud Engineer with over 3 years of experience, passionate about turning complex infrastructure challenges into smooth, reliable, and scalable systems. My interest lies in designing CI/CD pipelines, managing Kubernetes clusters, or improving system performance, I focus on creating solutions that are efficient, cost-effective, and practical.
 
 ### 🧰 Tech Stack
 
-- **Cloud Computing**: AWS, GCP 
+- **Cloud Computing**: AWS, Azure, GCP 
 - **OS**: Linux, Windows
 - **CI/CD**: GitHub Actions, Jenkins  
 - **Version Control**: GitHub, Bitbucket  
